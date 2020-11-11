@@ -1,0 +1,49 @@
+
+h1 {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 10px;
+}
+
+
+.squares{
+    display: flex;
+    justify-content: center;
+
+}
+
+.red-square{
+    background: red;
+    opacity: 50%;
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 2em;
+}
+.blue-square{
+    background: blue;
+    opacity: 50%;
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 2em;
+}
+
+
+.yellow-square{
+    background: yellow;
+    opacity: 50%;
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 2em;
+}
+
+.green-square{
+    background: green;
+    opacity: 50%;
+    height: 100px;
+    width: 100px;
+    padding: 50px;
+    margin: 2em;
+}
